@@ -1,0 +1,8 @@
+pandas
+numpy
+mlflow
+kfp
+deepchecks
+scikit-learn
+wandb
+prefect
